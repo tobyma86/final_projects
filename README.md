@@ -1,4 +1,4 @@
-# Data 101 Final Project: Database Systems Comparison
+# Data 101 Final Project: A Comparison Study between PostgreSQL and MongoDB Using Yelp Dataset
 
 ## Overview
 
